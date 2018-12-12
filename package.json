@@ -15,8 +15,12 @@
     "crypto": "^1.0.1",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
+<<<<<<< HEAD
     "jwt-simple": "^0.5.5",
     "moment": "^2.22.2",
+=======
+    "handlebars": "^4.0.12",
+>>>>>>> 8bbd68fa10e593fea5a0a6dd146d45f1f2167c4a
     "mongoose": "^5.3.15"
   },
   "devDependencies": {
