@@ -2,6 +2,7 @@
 
 const mongoose = require('mongoose')
 const app = require('./app')
+const exphbs = require('express-handlebars')
 const config = require ('./config')
 
 mongoose.connect(config.db,(err, res) =>{
